@@ -1,0 +1,27 @@
+{
+  "name": "d3-examples",
+  "version": "1.0.0",
+  "description": "A test application for testing d3 visualization",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibek-shrestha/d3-examples.git"
+  },
+  "keywords": [
+    "d3",
+    "d3-selection",
+    "visualization"
+  ],
+  "author": "Bibek Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bibek-shrestha/d3-examples/issues"
+  },
+  "homepage": "https://github.com/bibek-shrestha/d3-examples#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
